@@ -1012,7 +1012,7 @@ while :; do
      echo ""
      info "请选择选项："
      echo ""
-     info "1. 使用绵羊提供的warp节点(默认)"
+     info "1. 使用公共warp节点(默认)"
      info "2. 使用手动刷的warp节点"
      info "0. 退出"
      echo ""
@@ -1250,7 +1250,7 @@ process_singbox() {
 
 
 # 作者介绍
-print_with_delay "Reality brutal 脚本 by 绵阿羊" 0.03
+print_with_delay "Reality 一键脚本 by lswmxl" 0.03
 echo ""
 echo ""
 #install pkgs
