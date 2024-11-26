@@ -1250,7 +1250,7 @@ process_singbox() {
 
 
 # 作者介绍
-print_with_delay "Reality 一键脚本 by lswmxl" 0.03
+print_with_delay "Reality自用一键脚本(brutal)" 0.03
 echo ""
 echo ""
 #install pkgs
